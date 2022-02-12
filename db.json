@@ -1,10 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" },
-    { "id": 5, "title": "Post 5" }
+  "posts":[
+    {
+      "id": "1",
+      "name": "Nurullah",
+      "email": "nurullah@gmail.com",
+      "contact": "0173111111"
+    },
+    {
+      "id": "2",
+      "name": "Md Nurullah",
+      "email": "nurullah77@gmail.com",
+      "contact": "0173222222"
+    },
+    {
+      "id": "3",
+      "name": "Md Nurullah khan",
+      "email": "nurullah7733@gmail.com",
+      "contact": "01733333333"
+    },
+    {
+      "id": "4",
+      "name": "Harry Potter ",
+      "email": "harypotter@gmail.com",
+      "contact": "01733333333"
+    },
+    {
+      "id": "5",
+      "name": "Harry Potter Khan",
+      "email": "harrykhan@gmail.com",
+      "contact": "01733333333"
+    },
+    {
+      "name": "Abdul Hakim",
+      "email": "hakim09887@gmail.com",
+      "contact": "01714444444",
+      "id": "QZEpnGw"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
